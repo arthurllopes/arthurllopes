@@ -1,5 +1,3 @@
-![arthurllopes](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurllopes&hide=html&layout=compact&theme=dark&align=right)
-
 <p align="left">
   👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor de Front-End</strong>. Estou buscando minha primeira oportunidade como estágio ou junior.
 </p>
@@ -26,3 +24,5 @@
   
   <a href="https://www.linkedin.com/in/arthur-lopes-bb71391ab/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
+
+  ![arthurllopes](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurllopes&hide=html&layout=compact&theme=dark)
