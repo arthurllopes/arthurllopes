@@ -1,4 +1,6 @@
-![arthurllopes](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurllopes&hide=html&layout=compact&theme=dark)
+<p align="left">
+  ![arthurllopes](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurllopes&hide=html&layout=compact&theme=dark)
+</p>
 
 <p align="left">
   👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor de Front-End</strong>. Estou buscando minha primeira oportunidade como estágio ou junior.
