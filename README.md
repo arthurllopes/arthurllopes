@@ -1,5 +1,5 @@
 <p align="left">
-  👋 Olá, meu nome é Arthur Lopes. Sou <strong>Desenvolvedor de Front-End</strong>. Estou buscando minha primeira oportunidade como estágio ou junior.
+  👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor de Front-End</strong>. Estou buscando minha primeira oportunidade como estágio ou junior.
 </p>
 
 <p align="left">
@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="https://www.instagram.com/ar7hvr/" alt="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   
   <a href="https://www.linkedin.com/in/arthur-lopes-bb71391ab/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
