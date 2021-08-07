@@ -1,5 +1,5 @@
 <p align="left">
-  👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor de Front-End</strong>. Estou buscando minha primeira oportunidade como estágio ou junior.
+  👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor Front-End</strong>. Estou buscando minha primeira oportunidade como estágio ou junior.
 </p>
 
 <p align="left">
