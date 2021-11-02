@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
-  :nail_care: Habilidades: <strong>Inglês fluente, JavaScript, ReactJS, Styled-Components, Sass, Axios, HTML, CSS, Bootstrap.</strong>
+  :nail_care: Habilidades: <strong>Inglês fluente, JavaScript, ReactJS, Styled-Components, Sass, Axios, HTML, CSS, Bootstrap, Chakra-UI.</strong>
 </p>
 
 <p align="left">
-  🌱 Estou aprendendo: <strong>NextJS.</strong>
+  🌱 Estou aprendendo: <strong>NextJS com TypeScript.</strong>
 </p>
 
 <p align="left"> 
@@ -24,6 +24,3 @@
   
   <a href="https://www.linkedin.com/in/arthur-lopes-bb71391ab/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" /></a>
-
-  <a href="https://www.instagram.com/ar7hvr/" alt="Instagram">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
