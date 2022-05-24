@@ -1,13 +1,13 @@
 <p align="left">
-  👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor Front-End</strong>. Estou buscando minha primeira oportunidade como junior.
+  👋 Olá, meu nome é <strong>Arthur Lopes</strong>. Sou <strong>Desenvolvedor Front-End</strong>. 
 </p>
 
 <p align="left">
-  :nail_care: Habilidades: <strong>Inglês fluente, JavaScript, ReactJS, Styled-Components, Sass, Axios, HTML, CSS, Bootstrap, Chakra-UI.</strong>
+  :nail_care: Habilidades: <strong>Inglês fluente, TypeScript, NextJS, JavaScript, ReactJS, Styled-Components, Sass, Axios, HTML, CSS, Bootstrap, Chakra-UI, .</strong>
 </p>
 
 <p align="left">
-  🌱 Estou aprendendo: <strong>NextJS com TypeScript.</strong>
+  🌱 Estou aprendendo: <strong>Testes unitários com Jest</strong>
 </p>
 
 <p align="left"> 
