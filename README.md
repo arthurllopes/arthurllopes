@@ -3,11 +3,11 @@
 </p>
 
 <p align="left">
-  :nail_care: Habilidades: <strong>Inglês fluente, TypeScript, NextJS, JavaScript, ReactJS, Testes unitários com Jest, Styled-Components, Sass, Axios, HTML, CSS, Bootstrap, Chakra-UI, .</strong>
+  :nail_care: Habilidades: <strong>Inglês fluente, TypeScript, NextJS, JavaScript, ReactJS, Redux, Testes unitários com Jest, Styled-Components, HTML, CSS.</strong>
 </p>
 
 <p align="left">
-  🌱 Estou aprendendo: <strong>Node</strong>
+  🌱 Estou aprendendo: <strong>Node, React Native</strong>
 </p>
 
 <p align="left"> 
